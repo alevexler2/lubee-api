@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lubee-web-api.props" />
+</Project>
